@@ -13,5 +13,11 @@ A visually accurate clone of the official **UltraEdit** website built using **HT
 - HTML  
 - CSS
 
-## 📁 Project Structure
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/samikshajain29/UltraEdit-Website-Clone.git
+   cd UltraEdit-Website-Clone
+
 
